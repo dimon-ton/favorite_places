@@ -1,4 +1,3 @@
-import 'package:favorite_places/main.dart';
 import 'package:flutter/material.dart';
 
 class AddPlaceScreen extends StatefulWidget {
