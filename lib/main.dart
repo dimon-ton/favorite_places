@@ -30,7 +30,7 @@ final theme = ThemeData().copyWith(
 
 void main() {
   runApp(
-    const ProviderScope(chile: MyApp()),
+    const ProviderScope(child: MyApp()),
   );
 }
 
